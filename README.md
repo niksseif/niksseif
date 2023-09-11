@@ -27,7 +27,7 @@ ________________________________________________________________________________
 ### 🤝 Connect with Me
 - LinkedIn: [Nik Seif](https://www.linkedin.com/in/nik-seif/)
 - Twitter: [@niksseif](https://twitter.com/niksseif)
-- Email: nik@turing.edu
+- Email: nik.safe@gmail.com
 ________________________________________
 ![](https://komarev.com/ghpvc/?username=niksseif&color=blue)
 
