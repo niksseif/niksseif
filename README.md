@@ -6,7 +6,7 @@
 
 _____________________________________________________________________________________________________________________________
 
-- 👨‍💻 I'm a Full-Stack Software Engineer based in Oakland/ CA.
+- 👨‍💻 I'm a Full-Stack Software developer based in Oakland/ CA.
 - 🌱 I’m currently learning Web 3.
 - 🔭 I’m currently working on updating the Turing School of Software and Design's front-end curriculum to functional programming.
 - 🤝 I’m looking to collaborate on any open source projects, I also, enjoy volunteering at non-profits.
