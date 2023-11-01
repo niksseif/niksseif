@@ -6,7 +6,7 @@
 
 _____________________________________________________________________________________________________________________________
 
-- 👨‍💻 I'm a Full-Stack Software developer based in Oakland/ CA.
+- 👨‍💻 I'm a Full-Stack Software developer and educator based in Oakland/ CA.
 - 🌱 I’m currently learning Web 3.
 - 🔭 I’m currently working on updating the Turing School of Software and Design's front-end curriculum (Open Source) to functional programming.
 - 🧠 I'm currently building an open source project for Neurodivergent developers and neurodivergent users. 
