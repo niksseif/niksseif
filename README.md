@@ -14,7 +14,7 @@ ________________________________________________________________________________
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nik-seif/)
 
 ### 🛠 Technologies & Tools
-- Languages: Javascript, Python.
+- Languages: Javascript, Python, Typescript. 
 - Frameworks: React, Flask, Redux
 - Tools: Git, Jira, AWS
 ### 🔥 My Stats :
