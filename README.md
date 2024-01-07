@@ -7,7 +7,7 @@
 _____________________________________________________________________________________________________________________________
 
 - 👨‍💻 I'm a Full-Stack Software developer and educator based in Oakland/ CA.
-- 🌱 I’m currently learning Web 3.
+- 🌱 I’m currently learning Next.js.
 - 🔭 I’m currently working on updating the Turing School of Software and Design's front-end curriculum (Open Source) to functional programming.
 - 🧠 I'm currently building an open source project for Neurodivergent developers and neurodivergent users. 
 - 🤝 I’m looking to collaborate on any open source projects, I also, enjoy volunteering at non-profits.
