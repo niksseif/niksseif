@@ -1,7 +1,8 @@
 <div align="center"><strong>Hey there! Thanks for visiting my ReadMe! 👋🏼 </strong></div>
 <br>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="500"/>
+<!--   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="500"/> -->
+  <img src="https://media.giphy.com/media/sQ4iy8IEQkngtDMnQg/giphy.gif" width="480" height="480"></img>
 </div>
 
 _____________________________________________________________________________________________________________________________
