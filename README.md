@@ -10,7 +10,7 @@ ________________________________________________________________________________
 - 👨‍💻 I'm a Full-Stack Software developer and educator based in Oakland/ CA.
 - 🌱 I’m currently learning Next.js.
 - 🔭 I’m currently working on updating the Turing School of Software and Design's front-end curriculum (Open Source) to functional programming.
-- 🧠 I'm currently building an open source project for Neurodivergent developers and neurodivergent users. 
+- 🧠 I'm currently building a project for pet lovers. 
 - 🤝 I’m looking to collaborate on any open source projects, I also, enjoy volunteering at non-profits.
 - 💭 Ask me about Git, React,Javascript, Getting the Software engineering jobs.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nik-seif/)
